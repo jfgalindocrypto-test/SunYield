@@ -43,7 +43,7 @@ contract SunYieldEnergy is ERC20 {
 ### 4. ¿Cómo se identifica este contrato en la cadena?
 Una vez que el código anterior se compila y se envía a la blockchain, la red le asigna automáticamente un Contract Address (Dirección de Contrato).
 
-Piensen en el Contract Address como el DNI digital y permanente del proyecto (por ejemplo: 0x742d35Cc6634C0532925a3b844Bc454e4438f44e). Esta dirección garantiza la inmutabilidad: asegura a los inversores que las reglas del juego (los 10,000 tokens máximos) no pueden ser alteradas unilateralmente. Cualquier persona en el mundo puede consultar esta dirección para auditar la transparencia del suministro y rastrear quién posee cada fracción del parque de baterías en tiempo real, sin depender de un registro notarial cerrado.
+Piensen en el Contract Address como el DNI digital y permanente del proyecto (por ejemplo: 0x32D629D70C5C59Ec667Dc1f07DCd43Dfce02DEc1). Esta dirección garantiza la inmutabilidad: asegura a los inversores que las reglas del juego (los 10,000 tokens máximos) no pueden ser alteradas unilateralmente. Cualquier persona en el mundo puede consultar esta dirección para auditar la transparencia del suministro y rastrear quién posee cada fracción del parque de baterías en tiempo real, sin depender de un registro notarial cerrado.
 
 ### 5. ¿Cómo se pueden vender los tokens del contrato?
 Para distribuir los tokens a los inversores con el menor coste posible, se pueden emplear dos mecanismos técnicos eficientes:
