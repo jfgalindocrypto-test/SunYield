@@ -30,6 +30,7 @@ Una vez confirmada la transacción en Remix, en la sección inferior ("Deployed 
 
 Ir al explorador de bloques público: amoy.polygonscan.com.
 
+<!-- <EOF> deploy.md -->
 Pegar el Contract Address en el buscador.
 
 **Resultado:** Acabas de verificar su RWA en la cadena: podrás ver la transacción de creación (Contract Creation), el nombre del token (SunYield Energy), y si accedes al "Token Tracker", comprobaras públicamente que el Max Total Supply está auditado matemáticamente en 10,000 unidades, inmutable y listo para los inversores.
