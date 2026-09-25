@@ -29,6 +29,7 @@ Asegúra de que el contrato SunYieldEnergy está seleccionado y haz clic en Depl
 Una vez confirmada la transacción en Remix, en la sección inferior ("Deployed Contracts") verá su contrato. Copia el Contract Address.
 
 Ir al explorador de bloques público: amoy.polygonscan.com.
+https://amoy.polygonscan.com/token/0x32D629D70C5C59Ec667Dc1f07DCd43Dfce02DEc1#transactions
 
 <!-- <EOF> deploy.md -->
 Pegar el Contract Address en el buscador.
